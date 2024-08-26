@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Membrive</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">CS Enthusiast | Fueled by Coffee, Driven by Knowledge</h3>
 
 <table align="center">
 <tr border="none">
@@ -53,7 +53,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="franciscomembrive" height="50" width="50" />
   </a>
   <a href="mailto:membrive1786@yahoo.com.br" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Email.svg" alt="email" height="50" width="50" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5308-yahoo_102577.png" alt="email" height="50" width="50" />
   </a>
 </p>
 
