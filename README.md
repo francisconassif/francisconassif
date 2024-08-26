@@ -1,4 +1,3 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Francisco Membrive</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **membrive1786@yahoo.com.br**
   
-- ⚡ Fun fact **I'm from Belo Horizonte**
+- 🏠 I'm from **Belo Horizonte**
 
 </td>
 <td width="50%" align="center">
@@ -50,8 +49,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/franciscomembrive" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="franciscomembrive" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/franciscomembrive" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="franciscomembrive" height="50" width="50" />
+  </a>
+  <a href="mailto:membrive1786@yahoo.com.br" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Email.svg" alt="email" height="50" width="50" />
+  </a>
 </p>
+
 
 ---
 
