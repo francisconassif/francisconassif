@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently studying **Theory of Computation**
 
--  I’m a 2nd year Undergraduate at **USP**
+- 🎓 I’m a 2nd year Undergraduate at **USP**
 
 - 💬 Ask me about **Competitive Programming**
 
