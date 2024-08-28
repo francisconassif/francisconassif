@@ -77,7 +77,12 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
   </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" alt="latex" width="50" height="50"/>
+  </a>
 </p>
+
+
 
 
 ---
