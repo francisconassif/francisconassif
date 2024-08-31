@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **membrive1786@yahoo.com.br**
   
-- 🏠 I'm from **Belo Horizonte**
+- 🏠 From **Belo Horizonte**
 
 </td>
 <td width="50%" align="center">
