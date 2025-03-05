@@ -33,7 +33,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=francisconassif&theme=dark&show_icons=true&count_private=true" />
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=francisconassif&theme=dark&show_icons=true&count_private=true" /> -->
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francisconassif&theme=dark&hide_border=false" /> 
 </td>
@@ -53,7 +53,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="franciscomembrive" height="50" width="50" />
   </a>
   <a href="mailto:membrive1786@yahoo.com.br" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5308-yahoo_102577.png" alt="email" height="50" width="50" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/4096/4096478.png" alt="email" height="50" width="50" />
   </a>
 </p>
 
