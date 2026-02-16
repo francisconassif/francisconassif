@@ -5,9 +5,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently studying **Theory of Computation**
+- 🌱 I’m currently studying **Software Development**
 
-- 🎓 I’m a 3rd year Undergraduate at **USP**
+- 🎓 I’m a 4th year Undergraduate at **USP**, exchange student at **ITESM**
 
 - 💬 Ask me about **Competitive Programming**
 
