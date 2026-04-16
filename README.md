@@ -48,13 +48,14 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/franciscomembrive" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="franciscomembrive" height="50" width="50" />
+<div align="center">
+  <a href="https://linkedin.com/in/franciscomembrive">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50">
   </a>
-  <a href="mailto:membrive1786@yahoo.com.br" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/4096/4096478.png" alt="email" height="50" width="50" />
+  <a href="mailto:membrive1786@yahoo.com.br">
+    <img src="https://cdn-icons-png.flaticon.com/512/4096/4096478.png" height="50">
   </a>
+</div>
 </p>
 
 
