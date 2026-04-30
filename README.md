@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently studying **Software Development**
 
-- 🎓 I’m a 4th year Undergraduate at **USP**, exchange student at **ITESM**
+- 🎓 I’m a 4th year Undergraduate at **USP**, exchange student at **ITESM** 🇲🇽
 
 - 💬 Ask me about **Competitive Programming**
 
